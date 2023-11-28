@@ -5,8 +5,8 @@ import (
 	"encoding/xml"
 	"net/http"
 
-	"github.com/zeromicro/go-zero/rest/httpx"
-	"github.com/zeromicro/x/errors"
+	"github.com/userzhangjinlong/go-zero/rest/httpx"
+	"github.com/userzhangjinlong/x/errors"
 	"google.golang.org/grpc/status"
 )
 

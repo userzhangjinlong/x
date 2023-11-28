@@ -1,5 +1,5 @@
 // Package http provides a set of functions for working with HTTP requests and responses.
-// It is an extension of the go-zero package https://github.com/zeromicro/go-zero/tree/master/rest/httpx,
+// It is an extension of the go-zero package https://github.com/userzhangjinlong/go-zero/tree/master/rest/httpx,
 // it provides XML response functions and a base response struct, for example:
 // you can respond an XML string like this:
 //

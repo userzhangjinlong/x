@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/core/logx"
-	errorx "github.com/zeromicro/x/errors"
-	"github.com/zeromicro/x/test"
+	"github.com/userzhangjinlong/go-zero/core/logx"
+	errorx "github.com/userzhangjinlong/x/errors"
+	"github.com/userzhangjinlong/x/test"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )
